@@ -1,0 +1,15 @@
+header {
+  height: 200px;
+}
+body {
+  font-family: "Patrick Hand";
+}
+
+.row-content {
+  min-height: 200px;
+}
+
+.jumbotron {
+  padding: 30px;
+  background-image: linear-gradient(to right, yellow, rgb(116, 245, 116));
+}
