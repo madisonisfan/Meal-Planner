@@ -15,15 +15,45 @@ img {
   width: 75px;
 }
 
+ul {
+  border: none;
+}
+
+button {
+  background-color: rgba(131, 241, 131, 0.808);
+}
+
 .row-content {
   min-height: 175px;
 }
 
 .jumbotron {
+  margin: 0;
   padding: 30px;
   background-image: linear-gradient(to right, yellow, rgb(116, 245, 116));
 }
 
 .extra-header {
   margin-bottom: 40px;
+}
+
+.navbar {
+  background-color: rgb(85, 248, 85);
+}
+
+.nav-item {
+  font-size: 18px;
+}
+
+.button-list {
+  margin: 0;
+}
+
+.container {
+  margin: 0px;
+}
+
+.card {
+  min-height: 250px;
+  max-height: 300px;
 }
